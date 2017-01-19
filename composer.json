@@ -1,6 +1,6 @@
 {
-    "name": "apache/thrift",
-    "description": "Apache Thrift RPC system",
+    "name": "nemospeculo/thrift",
+    "description": "Fork of Apache Thrift RPC system",
     "homepage": "http://thrift.apache.org/",
     "type": "library",
     "license": "Apache-2.0",
